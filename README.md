@@ -21,5 +21,3 @@ XXXTopo.txt - topology files that will be passed as input to RunSpanningTree.jav
 
 sample_output.txt - Example of a valid output file for the example input file sample_input.txt
 
-ValidateAnswer.java - It compares a reference output file against the generated output file to ensure correctness.
-
